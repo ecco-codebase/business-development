@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 **Executive Summary**
+## Executive Summary
 
 ecco.app has a **transformative opportunity** to become the first AI-powered content discovery platform for airline inflight entertainment. By partnering with American Airlines, we can create a **web-based companion experience** that revolutionizes how passengers find and enjoy content during flights.
 
@@ -18,14 +18,14 @@ ecco.app has a **transformative opportunity** to become the first AI-powered con
 - **Competitive Advantage:** First-to-market AI-powered IFE search
 
 ### **Why Now?**
-✅ **Technology Ready:** Panasonic APIs available  
-✅ **Market Validation:** Proven by other airlines  
-✅ **Clear Need:** Current IFE navigation universally poor  
-✅ **Low Risk:** No content licensing, minimal infrastructure investment
+- **Technology Ready:** Panasonic APIs available  
+- **Market Validation:** Proven by other airlines  
+- **Clear Need:** Current IFE navigation universally poor  
+- **Low Risk:** No content licensing, minimal infrastructure investment
 
 ---
 
-## 🚀 **Product Vision**
+## Product Vision
 
 ### **User Experience**
 1. **Passenger boards AA flight** with Panasonic eX2 system
@@ -49,7 +49,7 @@ ecco.app has a **transformative opportunity** to become the first AI-powered con
 
 ---
 
-## 🔧 **Technical Implementation**
+## Technical Implementation
 
 ### **Web-Based Solution**
 - **Progressive Web App** - No download required
@@ -58,14 +58,14 @@ ecco.app has a **transformative opportunity** to become the first AI-powered con
 - **AI search** powered by existing ecco.app algorithms
 
 ### **Why Web vs Mobile App:**
-✅ **95%+ adoption** vs 10-15% for app downloads  
-✅ **Instant deployment** - No app store process  
-✅ **Cross-platform** - Works on iOS and Android  
-✅ **Lower development cost** - Single codebase
+- **95%+ adoption** vs 10-15% for app downloads  
+- **Instant deployment** - No app store process  
+- **Cross-platform** - Works on iOS and Android  
+- **Lower development cost** - Single codebase
 
 ---
 
-## 📊 **Market Analysis**
+## Market Analysis
 
 ### **American Airlines Fleet**
 - **Wide-body:** Boeing 777, 787 with Panasonic eX2
@@ -80,7 +80,7 @@ ecco.app has a **transformative opportunity** to become the first AI-powered con
 
 ---
 
-## 💰 **Business Model & Revenue Streams**
+## Business Model & Revenue Streams
 
 ### **Primary: Freemium Wi-Fi Model**
 - **20-50 free AI searches** per flight via whitelisted ecco.app
