@@ -31,7 +31,7 @@ ecco.app has a **transformative opportunity** to become the first AI-powered con
 1. **Passenger boards AA flight** with Panasonic eX2 system
 2. **Connects to AA Wi-Fi** (required for internet features)
 3. **Visits ecco.app** in mobile browser (no download required)
-4. **Scans QR code** to pair with seatback screen
+4. **Scans QR code** to pair with seatback screen OR **follows link from aa.com** (if no seatback available)
 5. **Uses AI search:** "Find action movies with Ryan Reynolds"
 6. **Content plays on seatback screen** controlled by mobile device
 
